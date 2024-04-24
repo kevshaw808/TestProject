@@ -10,7 +10,7 @@ At present I have learned a little **HTML**, **CSS**, and some very basic **Java
 
 ### Images
 
-I drew the following images using Microsoft Paint
+I drew the following images using **Microsoft Paint**
 
 An image of a beach ![Beach](Beach.jpg)
 
