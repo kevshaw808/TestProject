@@ -7,6 +7,6 @@ I wanted to see what kinds of things a beginner could do using simple tools like
 I drew the following images using Microsoft Paint
 An image of a beach ![Beach](Beach.jpg)
 An image of a park picnic ![Picnic](Park Picnic.jpg)
-An image of a mountain lake ![MountainLake](Mountain Lake.jpg)
+An image of a mountain lake ![MountainLake](MountainLake.jpg)
 
 
