@@ -1,4 +1,4 @@
-# TestProject
+# Travel Game
 ## Introduction
 
 I started this project as an initial way of learning more about front end web development.
