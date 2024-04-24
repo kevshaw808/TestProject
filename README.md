@@ -4,6 +4,10 @@
 I started this project as an initial way of learning more about front end web development.
 I wanted to see what kinds of things a beginner could do using simple tools like *MS Paint* and *VS Code*. 
 
+## Skills And Languages
+At present I have learned a little **HTML**, **CSS**, and some very basic **JavaScript**. I can draw some simple images in **Microsoft Paint** and I used **VS Code** as a text editor.
+
+
 ### Images
 
 I drew the following images using Microsoft Paint
