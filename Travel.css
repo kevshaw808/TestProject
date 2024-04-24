@@ -1,0 +1,31 @@
+h1:hover {
+    transform: translate(25px, 25px);
+}
+h2 {
+    color: black;
+    transition: transform 1s, color 1s;
+}
+h2:active {
+    color: blanchedalmond;
+    transform: scale(2);
+}
+
+body {
+    background-color: rgb(127, 136, 255);
+}
+img {
+    transition: transform 3s;
+}
+img:active {
+    transform:rotate(90deg);
+}
+p {
+    width: 20%;
+    font-size: medium;
+    transition: width 3s, font-size 3s;
+    transition-delay: 2s;
+}
+p:active {
+    width: 50%;
+    font-size: large;
+}
